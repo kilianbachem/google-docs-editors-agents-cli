@@ -7,6 +7,8 @@ already installed – `require_scope` prints that instead of Google's 403.
 Run `gsheets` or `gdocs` bare for the usage text – the reference for what these APIs get wrong,
 and worth reading before you add a flag.
 
+**Comments:** Written as prose, like the docstrings – full sentences with their full stops.
+
 ## The layout
 
 | Path | Role |
